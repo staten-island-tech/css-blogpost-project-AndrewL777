@@ -5,4 +5,16 @@ body {
 .head {
   text-align: center;
   margin-top: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.parent {
+  height: 400px;
+  width: 400px;
+  border: 5px black;
+  margin: 30px auto;
+}
+.child-one {
+  position: relative;
+  left: 100px;
 }
