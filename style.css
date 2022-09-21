@@ -1,6 +1,6 @@
 body {
   background-color: #ffe4c4;
-  font-size: 25px;
+  font-size: 30px;
 }
 *,
 body,
@@ -10,11 +10,15 @@ html {
 .head {
   text-align: center;
   margin-top: 25px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .posts {
   margin: 20px auto;
+  padding: 45px;
   text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.link {
+
+  font-size: 27px;
 }
